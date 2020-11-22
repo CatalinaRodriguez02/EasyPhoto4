@@ -1,0 +1,15 @@
+C:\Users\Catalina\Easyphoto\src\Easyphoto.Infrastructure\bin\Debug\netcoreapp3.1\Easyphoto.Infrastructure.deps.json
+C:\Users\Catalina\Easyphoto\src\Easyphoto.Infrastructure\bin\Debug\netcoreapp3.1\Easyphoto.Infrastructure.runtimeconfig.json
+C:\Users\Catalina\Easyphoto\src\Easyphoto.Infrastructure\bin\Debug\netcoreapp3.1\Easyphoto.Infrastructure.runtimeconfig.dev.json
+C:\Users\Catalina\Easyphoto\src\Easyphoto.Infrastructure\bin\Debug\netcoreapp3.1\Easyphoto.Infrastructure.dll
+C:\Users\Catalina\Easyphoto\src\Easyphoto.Infrastructure\bin\Debug\netcoreapp3.1\Easyphoto.Infrastructure.pdb
+C:\Users\Catalina\Easyphoto\src\Easyphoto.Infrastructure\bin\Debug\netcoreapp3.1\Easyphoto.Core.dll
+C:\Users\Catalina\Easyphoto\src\Easyphoto.Infrastructure\bin\Debug\netcoreapp3.1\Easyphoto.Core.pdb
+C:\Users\Catalina\Easyphoto\src\Easyphoto.Infrastructure\obj\Debug\netcoreapp3.1\Easyphoto.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Catalina\Easyphoto\src\Easyphoto.Infrastructure\obj\Debug\netcoreapp3.1\Easyphoto.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Catalina\Easyphoto\src\Easyphoto.Infrastructure\obj\Debug\netcoreapp3.1\Easyphoto.Infrastructure.AssemblyInfo.cs
+C:\Users\Catalina\Easyphoto\src\Easyphoto.Infrastructure\obj\Debug\netcoreapp3.1\Easyphoto.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Catalina\Easyphoto\src\Easyphoto.Infrastructure\obj\Debug\netcoreapp3.1\Easyphoto.Infrastructure.csproj.CopyComplete
+C:\Users\Catalina\Easyphoto\src\Easyphoto.Infrastructure\obj\Debug\netcoreapp3.1\Easyphoto.Infrastructure.dll
+C:\Users\Catalina\Easyphoto\src\Easyphoto.Infrastructure\obj\Debug\netcoreapp3.1\Easyphoto.Infrastructure.pdb
+C:\Users\Catalina\Easyphoto\src\Easyphoto.Infrastructure\obj\Debug\netcoreapp3.1\Easyphoto.Infrastructure.genruntimeconfig.cache

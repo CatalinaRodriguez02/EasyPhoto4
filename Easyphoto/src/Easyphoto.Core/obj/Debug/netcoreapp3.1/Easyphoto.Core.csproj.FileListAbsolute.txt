@@ -1,0 +1,12 @@
+C:\Users\Catalina\Easyphoto\src\Easyphoto.Core\bin\Debug\netcoreapp3.1\Easyphoto.Core.deps.json
+C:\Users\Catalina\Easyphoto\src\Easyphoto.Core\bin\Debug\netcoreapp3.1\Easyphoto.Core.runtimeconfig.json
+C:\Users\Catalina\Easyphoto\src\Easyphoto.Core\bin\Debug\netcoreapp3.1\Easyphoto.Core.runtimeconfig.dev.json
+C:\Users\Catalina\Easyphoto\src\Easyphoto.Core\bin\Debug\netcoreapp3.1\Easyphoto.Core.dll
+C:\Users\Catalina\Easyphoto\src\Easyphoto.Core\bin\Debug\netcoreapp3.1\Easyphoto.Core.pdb
+C:\Users\Catalina\Easyphoto\src\Easyphoto.Core\obj\Debug\netcoreapp3.1\Easyphoto.Core.csprojAssemblyReference.cache
+C:\Users\Catalina\Easyphoto\src\Easyphoto.Core\obj\Debug\netcoreapp3.1\Easyphoto.Core.AssemblyInfoInputs.cache
+C:\Users\Catalina\Easyphoto\src\Easyphoto.Core\obj\Debug\netcoreapp3.1\Easyphoto.Core.AssemblyInfo.cs
+C:\Users\Catalina\Easyphoto\src\Easyphoto.Core\obj\Debug\netcoreapp3.1\Easyphoto.Core.csproj.CoreCompileInputs.cache
+C:\Users\Catalina\Easyphoto\src\Easyphoto.Core\obj\Debug\netcoreapp3.1\Easyphoto.Core.dll
+C:\Users\Catalina\Easyphoto\src\Easyphoto.Core\obj\Debug\netcoreapp3.1\Easyphoto.Core.pdb
+C:\Users\Catalina\Easyphoto\src\Easyphoto.Core\obj\Debug\netcoreapp3.1\Easyphoto.Core.genruntimeconfig.cache
